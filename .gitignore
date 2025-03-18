@@ -34,3 +34,7 @@ Thumbs.db
 # Package lock files (optional, if you don't want to commit them)
 package-lock.json
 yarn.lock
+
+# Vercel directory
+.vercel/
+.vercel
